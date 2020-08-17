@@ -25,6 +25,10 @@ With 3+ years of programming experience I have aquired the following skills:
 
 
 
+#### People Helped on Stack Overflow: 17
+
+
+
 #### Certificates:
 
 - [W3Cx HTML5.0x Certificate of Achievement](https://courses.edx.org/certificates/707fd3bcb6f14627b26df79dcc34e478)
