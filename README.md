@@ -25,7 +25,7 @@ With 3+ years of programming experience I have acquired the following skills:
 
 
 
-#### Questions Answered on Stack Overflow: 25
+#### Questions Answered on Stack Overflow: 30
 
 
 
