@@ -10,12 +10,13 @@ With 4+ years of programming experience I have acquired the following skills:
 
 #### Projects:
 
-- Discord Advertisement Bot
+- Auto Checkout API for Amazon
 - 100+ Problems Solved on [Kattis](https://open.kattis.com/users/akantuni)
 - Quora Data Scraper
 - Andriod Game Automation
 - Restock and New Drop Monitoring Software for Many Clothing Stores
 - Helped Develop Logic for Model Car Lighting Effects
+- Discord Advertisement Bot
 
 
 
