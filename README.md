@@ -10,7 +10,7 @@ With 4+ years of programming experience I have acquired the following skills:
 
 #### Projects:
 
-- Auto Checkout API for Amazon
+- [Auto Checkout API for Amazon](https://abcd.rest)
 - 100+ Problems Solved on [Kattis](https://open.kattis.com/users/akantuni)
 - Quora Data Scraper
 - Andriod Game Automation
